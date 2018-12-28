@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=+5V_USB Pin=FB1-2
-Added Pin To Net: NetName=+5V_USB Pin=C47-1
-Added Pin To Net: NetName=+5V_USB Pin=U10-6
-Added Pin To Net: NetName=NetF5_1 Pin=F5-1
-Added Pin To Net: NetName=NetF5_1 Pin=FB1-2
-Added Net: Name=NetF5_1

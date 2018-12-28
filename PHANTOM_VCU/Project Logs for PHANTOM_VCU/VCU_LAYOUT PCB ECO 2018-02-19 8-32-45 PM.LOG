@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=+1V2_PRE-FUSE Pin=C18-2
-Removed Pin From Net: NetName=+1V2_PRE-FUSE Pin=R45-2
-Removed Pin From Net: NetName=+1V2_PRE-FUSE Pin=TP5-1
-Added Pin To Net: NetName=+1V2 Pin=C18-2
-Added Pin To Net: NetName=+1V2 Pin=R45-2
-Added Pin To Net: NetName=+1V2 Pin=TP5-1

@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=+3V3_PRE-FUSE Pin=R40-2
-Removed Pin From Net: NetName=+3V3_PRE-FUSE Pin=TP3-1
-Added Pin To Net: NetName=+3V3 Pin=R40-2
-Added Pin To Net: NetName=+3V3 Pin=TP3-1

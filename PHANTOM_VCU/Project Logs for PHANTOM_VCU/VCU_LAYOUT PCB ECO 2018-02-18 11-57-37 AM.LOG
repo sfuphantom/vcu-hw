@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=+5V_BAT Pin=C3-2
-Removed Pin From Net: NetName=+5V_BAT Pin=C4-2
-Removed Pin From Net: NetName=+5V_BAT Pin=U3-2
-Added Pin To Net: NetName=+5V Pin=C3-2
-Added Pin To Net: NetName=+5V Pin=C4-2
-Added Pin To Net: NetName=+5V Pin=U3-2

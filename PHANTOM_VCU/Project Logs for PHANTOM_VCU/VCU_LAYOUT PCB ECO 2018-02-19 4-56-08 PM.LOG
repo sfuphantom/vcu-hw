@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=MIBSPI3_CLK Pin=JP8-2
-Added Pin To Net: NetName=MIBSPI3_MOSI Pin=JP8-2
-Added Pin To Net: NetName=MIBSPI3_CLK Pin=JP8-3
-Added Pin To Net: NetName=MIBSPI3_MOSI Pin=U5-14
-Added Pin To Net: NetName=MIBSPI3_MOSI Pin=U9-51
-Change Net Name : Old Net Name=MIBSPI3_MOSI New Net Name=MIBSPI3_MISO
-Added Member To Class: ClassName=VCU_Schematic Member=Component JP5 732-5316-ND
-Added Member To Class: ClassName=VCU_Schematic Member=Component JP6 732-5316-ND

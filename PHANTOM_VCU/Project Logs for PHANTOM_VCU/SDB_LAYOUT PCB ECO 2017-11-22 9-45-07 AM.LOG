@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetJP24_2 Pin=X1-20
-Removed Pin From Net: NetName=MIBSPI1_NCS_0 Pin=X2-20
-Added Pin To Net: NetName=K3- Pin=X1-20
-Added Pin To Net: NetName=GIOB_3 Pin=X2-20

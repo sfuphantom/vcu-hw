@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=CAN_L1 Pin=X3-1
-Removed Pin From Net: NetName=CAN_H1 Pin=X3-2
-Removed Pin From Net: NetName=CAN_L1 Pin=X3-3
-Removed Pin From Net: NetName=CAN_H1 Pin=X3-4
-Change Component Designator: OldDesignator=XTAL NewDesignator=XTAL1
-Added Pin To Net: NetName=CAN_L2 Pin=X3-1
-Added Pin To Net: NetName=CAN_H2 Pin=X3-2
-Added Pin To Net: NetName=CAN_L2 Pin=X3-3
-Added Pin To Net: NetName=CAN_H2 Pin=X3-4
