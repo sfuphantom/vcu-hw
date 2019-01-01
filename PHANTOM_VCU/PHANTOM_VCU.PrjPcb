@@ -73,6 +73,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FIYSGDPY
 
 [Document3]
+DocumentPath=BUCK_CONVERTERS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMHDVMRM
+
+[Document4]
 DocumentPath=Power_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SINLORCI
 
-[Document4]
+[Document5]
 DocumentPath=VCU_Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=REDJTLGG
 
-[Document5]
+[Document6]
 DocumentPath=MCU_Signals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDNRHMRT
 
-[Document6]
+[Document7]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLKEHXNE
 
-[Document7]
+[Document8]
 DocumentPath=Contactor_Switching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLXGSPJY
 
-[Document8]
+[Document9]
 DocumentPath=ADC_Decoupling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XIBWLFWA
 
-[Document9]
+[Document10]
 DocumentPath=VCU_LAYOUT.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYXPFQYM
 
-[Document10]
+[Document11]
 DocumentPath=PHANTOM_VCU.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=PHANTOM_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,9 +240,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LAMEWUAU
 
-[Document12]
+[Document13]
 DocumentPath=PHANTOM_LIBRARY.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
