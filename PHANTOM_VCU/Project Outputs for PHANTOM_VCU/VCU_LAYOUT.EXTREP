@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: VCU_LAYOUT.GBR   2/26/2018  10:07:46 AM
+Gerber File Extension Report For: VCU_LAYOUT.GBR   2019-01-06  1:27:55 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -8,14 +8,10 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
-.GPB                Bottom Pad Master                       
-.GPT                Top Pad Master                          
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GM1                Mechanical 1                            
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
-.GD1                Drill Drawing                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
 ------------------------------------------------------------------------------------------
