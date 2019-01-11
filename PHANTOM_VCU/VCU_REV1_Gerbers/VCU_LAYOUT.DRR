@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VCU_LAYOUT.PcbDoc   2019-01-11  11:17:04 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VCU_LAYOUT.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             4         PTH        0.13inch (3.30mm)
+T2      16mil (0.4mm)                                             Round             337       PTH        54.07inch (1373.28mm)
+T3      39mil (1mm)                                               Round             21        PTH        13.04inch (331.26mm)
+T4      43mil (1.1mm)           +4mil (0.1mm)                     Round             30        PTH        9.96inch (252.89mm)
+T5      47mil (1.2mm)           +4mil (0.1mm)                     Round             20        PTH        5.80inch (147.39mm)
+T6      51mil (1.3mm)           +4mil (0.1mm)                     Round             20        PTH        6.00inch (152.47mm)
+T7      71mil (1.8mm)                                             Round             2         PTH        0.22inch (5.50mm)
+T8      100mil (2.54mm)         +4mil (0.1mm)                     Round             4         PTH        5.83inch (148.09mm)
+T9      118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T10     177mil (4.5mm)                                            Round             4         PTH        12.22inch (310.48mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              443
+
+Total Processing Time (hh:mm:ss) : 00:00:01
