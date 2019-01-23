@@ -7,8 +7,6 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Multi-Layer
 
 
@@ -69,7 +67,6 @@ Used DCodes :
     D63
     D64
     D65
-    D66
 *************************************************************
 
 *************************************************************
@@ -78,8 +75,6 @@ Generating : Bottom Layer
 
     Adding Layer      : Bottom Layer
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Multi-Layer
 
 
@@ -88,8 +83,8 @@ Used DCodes :
     D52
     D53
     D54
-    D55
     D56
+    D57
     D59
     D60
     D61
@@ -98,7 +93,6 @@ Used DCodes :
     D64
     D65
     D66
-    D67
 *************************************************************
 
 *************************************************************
@@ -107,18 +101,17 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
     D10
     D54
-    D57
+    D55
     D58
-    D59
+    D67
     D68
     D69
     D70
+    D71
 *************************************************************
 
 *************************************************************
@@ -126,8 +119,6 @@ Generating : Top Paste
       File : VCU_LAYOUT.GTP
 
     Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
 
     Adding Layer      : Top Layer
 
@@ -176,7 +167,6 @@ Used DCodes :
     D49
     D50
     D51
-    D59
 *************************************************************
 
 *************************************************************
@@ -185,16 +175,12 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
-    D71
     D72
     D73
     D74
@@ -241,6 +227,7 @@ Used DCodes :
     D115
     D116
     D117
+    D118
 *************************************************************
 
 *************************************************************
@@ -249,21 +236,18 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
-    D112
     D113
     D114
     D115
     D116
     D117
+    D118
 *************************************************************
 
 *************************************************************
@@ -272,15 +256,12 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
 *************************************************************
 
 *************************************************************
@@ -289,10 +270,20 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
+
+Used DCodes :
+    D68
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : VCU_LAYOUT.GM1
+
     Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D59
+    D68
 *************************************************************
 

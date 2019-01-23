@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: VCU_LAYOUT.GBR   2019-01-11  11:15:40 AM
+Gerber File Extension Report For: VCU_LAYOUT.GBR   2019-01-22  6:24:03 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,4 +14,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
