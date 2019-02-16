@@ -1,21 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [PHANTOM_VCU.PrjPcb]
-   Generated File[VCU_LAYOUT.GTL]
-   Generated File[VCU_LAYOUT.GBL]
-   Generated File[VCU_LAYOUT.GTO]
-   Generated File[VCU_LAYOUT.GTP]
-   Generated File[VCU_LAYOUT.GTS]
-   Generated File[VCU_LAYOUT.GBS]
-   Generated File[VCU_LAYOUT.GBP]
-   Generated File[VCU_LAYOUT.GBO]
-   Generated File[VCU_LAYOUT.GM1]
-   Generated File[VCU_LAYOUT.RUL]
-   Generated File[VCU_LAYOUT.EXTREP]
-   Generated File[VCU_LAYOUT.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PHANTOM_VCU.PrjPcb]
+   Generated File[VCU_LAYOUT.TXT]
+   Generated File[VCU_LAYOUT.LDP]
+   Generated File[VCU_LAYOUT.DRR]
 
 
-Files Generated   : 12
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:24:05 PM On 2019-01-22
+Finished Output Generation At 7:59:13 PM On 2019-02-15
