@@ -259,6 +259,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEDNNELS
 
+[Document14]
+DocumentPath=DAC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BWALFNVB
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PHANTOM_VCU\Design Rule Check - VCU_LAYOUT.html
 DItemRevisionGUID=
