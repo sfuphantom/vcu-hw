@@ -7,18 +7,6 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
     Adding Layer      : Multi-Layer
 
 
@@ -82,7 +70,6 @@ Used DCodes :
     D66
     D67
     D68
-    D69
 *************************************************************
 
 *************************************************************
@@ -91,30 +78,16 @@ Generating : Bottom Layer
 
     Adding Layer      : Bottom Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D52
-    D53
     D54
-    D55
     D56
+    D57
+    D58
     D59
-    D60
     D61
     D62
     D63
@@ -123,8 +96,6 @@ Used DCodes :
     D66
     D67
     D68
-    D69
-    D70
 *************************************************************
 
 *************************************************************
@@ -133,30 +104,18 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
 
 Used DCodes :
     D10
     D55
-    D57
     D58
-    D59
     D60
-    D61
-    D62
+    D69
+    D70
     D71
     D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
@@ -164,18 +123,6 @@ Generating : Top Paste
       File : VCU_LAYOUT.GTP
 
     Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
 
     Adding Layer      : Top Layer
 
@@ -224,10 +171,8 @@ Used DCodes :
     D49
     D50
     D51
-    D59
-    D60
-    D61
-    D62
+    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -236,30 +181,12 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
-    D60
-    D61
-    D62
-    D73
-    D74
     D75
     D76
     D77
@@ -305,6 +232,10 @@ Used DCodes :
     D117
     D118
     D119
+    D120
+    D121
+    D122
+    D123
 *************************************************************
 
 *************************************************************
@@ -313,34 +244,18 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
-    D60
-    D61
-    D62
-    D114
-    D115
-    D116
-    D117
     D118
     D119
+    D120
+    D121
+    D122
+    D123
 *************************************************************
 
 *************************************************************
@@ -349,28 +264,12 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 6
-
-    Adding Layer      : Mechanical 8
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D59
-    D60
-    D61
-    D62
 *************************************************************
 
 *************************************************************
@@ -379,23 +278,20 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Mechanical 1
 
-    Adding Layer      : Mechanical 6
+Used DCodes :
+    D70
+    D72
+*************************************************************
 
-    Adding Layer      : Mechanical 8
+*************************************************************
+Generating : Board Outline
+      File : VCU_LAYOUT.GM6
 
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 44
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D59
-    D60
-    D61
-    D62
+    D70
 *************************************************************
 
