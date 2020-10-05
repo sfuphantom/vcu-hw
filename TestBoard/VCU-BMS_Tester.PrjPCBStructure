@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=TEST_TOP.SchDoc
+Record=SheetSymbol|SourceDocument=TEST_TOP.SchDoc|Designator=U_BMS_Temp|SchDesignator=U_BMS_Temp|FileName=BMS_Temp.SchDoc|SymbolType=Normal|RawFileName=BMS_Temp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TEST_TOP.SchDoc|Designator=U_BMS_Voltage|SchDesignator=U_BMS_Voltage|FileName=BMS_Voltage.SchDoc|SymbolType=Normal|RawFileName=BMS_Voltage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TEST_TOP.SchDoc|Designator=U_CAN|SchDesignator=U_CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TEST_TOP.SchDoc|Designator=U_DAC|SchDesignator=U_DAC|FileName=DAC.SchDoc|SymbolType=Normal|RawFileName=DAC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TEST_TOP.SchDoc|Designator=U_Launchpad|SchDesignator=U_Launchpad|FileName=Launchpad.SchDoc|SymbolType=Normal|RawFileName=Launchpad.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
