@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\gabriel\Documents\Phantom\vcu-hw\PHANTOM_VCU\VCU_LAYOUT.PcbDoc
-Date     : 2020-10-07
-Time     : 11:35:45 PM
+Date     : 2020-10-10
+Time     : 6:47:12 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -10,9 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net CAN_H1 Between Pad JP2-2(141.1mm,180.1mm) on Multi-Layer And Pad JP3-2(147.625mm,177.56mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CAN_L1 Between Track (138.725mm,173.625mm)(138.725mm,181.375mm) on Bottom Layer And Pad JP3-1(147.625mm,180.1mm) on Multi-Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -1003,8 +1001,7 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :71
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (67mm,194.315mm) from Top Layer to Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=0.254mm) (Disabled)(InDifferentialPair('USBD'))
 Rule Violations :0
@@ -1013,6 +1010,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=300mm) (Prefered=12.7mm) (All
 Rule Violations :0
 
 
-Violations Detected : 967
+Violations Detected : 964
 Waived Violations : 0
 Time Elapsed        : 00:00:02
