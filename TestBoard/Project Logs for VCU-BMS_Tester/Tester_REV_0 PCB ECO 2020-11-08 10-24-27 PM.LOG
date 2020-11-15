@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BRAKE_LIGHT Pin=U1-17
+Removed Pin From Net: NetName=BUZZER Pin=U1-23
+Added Pin To Net: NetName=BUZZER Pin=U1-78
+Added Pin To Net: NetName=BRAKE_LIGHT Pin=U1-85
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=VCU_FLT_OUT

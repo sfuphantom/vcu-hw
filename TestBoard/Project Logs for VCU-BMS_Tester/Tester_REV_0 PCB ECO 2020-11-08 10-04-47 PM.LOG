@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MUX_S1 Pin=U1-8
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6

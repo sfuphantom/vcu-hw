@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BMS_FLT Pin=U1-55
+Removed Pin From Net: NetName=IMD_FLT Pin=U1-56
+Removed Pin From Net: NetName=HV_ACTIVE Pin=U1-57
+Removed Pin From Net: NetName=HEARTBEAT Pin=U1-67
+Removed Pin From Net: NetName=BMS_MODE Pin=U1-68
+Removed Pin From Net: NetName=VCU_MODE Pin=U1-69
+Added Pin To Net: NetName=BMS_MODE Pin=U1-55
+Added Pin To Net: NetName=VCU_MODE Pin=U1-56
+Added Pin To Net: NetName=HEARTBEAT Pin=U1-57
+Added Pin To Net: NetName=HV_ACTIVE Pin=U1-62
+Added Pin To Net: NetName=BMS_FLT Pin=U1-68
+Added Pin To Net: NetName=IMD_FLT Pin=U1-69
+Change Net Name : Old Net Name=VCU_RST New Net Name=BOARD_RST

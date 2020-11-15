@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=VCU_RST Pin=J3-4
+Removed Pin From Net: NetName=UART_RX Pin=J3-5
+Removed Pin From Net: NetName=UART_TX Pin=J3-6
+Added Pin To Net: NetName=UART_TX Pin=J3-1
+Added Pin To Net: NetName=UART_RX Pin=J3-2
+Added Pin To Net: NetName=VCU_RST Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=12V Pin=J3-6

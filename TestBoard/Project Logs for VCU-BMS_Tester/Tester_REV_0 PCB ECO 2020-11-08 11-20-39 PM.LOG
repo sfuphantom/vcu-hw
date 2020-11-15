@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BRAKE_LIGHT Pin=U1-85
+Added Pin To Net: NetName=BRAKE_LIGHT Pin=U1-67
