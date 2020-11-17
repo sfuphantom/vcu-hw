@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCU_FLT_OUT Pin=U1-14
+Added Pin To Net: NetName=VCU_FLT_OUT Pin=U1-85
