@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=INVERTER Pin=U1-50
+Added Pin To Net: NetName=INVERTER Pin=U1-41

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=RTD Pin=J2-17
+Change Net Name : Old Net Name=MUX_S0 New Net Name=MUX_S1
+Change Net Name : Old Net Name=MUX_S1 New Net Name=MUX_S0

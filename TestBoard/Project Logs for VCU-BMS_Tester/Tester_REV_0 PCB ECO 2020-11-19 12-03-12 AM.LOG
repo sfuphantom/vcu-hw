@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=INVERTER Pin=U1-96
+Removed Pin From Net: NetName=BMS_TEMP Pin=U6-1
+Removed Pin From Net: NetName=BMS_VOLT Pin=U7-13
+Added Pin To Net: NetName=INVERTER Pin=U1-50
+Added Pin To Net: NetName=BMS_VOLT Pin=U6-1
+Added Pin To Net: NetName=BMS_TEMP Pin=U7-13
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component R19 0R
