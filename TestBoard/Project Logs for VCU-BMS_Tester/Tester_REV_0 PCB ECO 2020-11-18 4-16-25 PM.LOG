@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Member From Class: ClassName=U_BMS_Voltage Member=C12
+Removed Member From Class: ClassName=U_BMS_Voltage Member=R19

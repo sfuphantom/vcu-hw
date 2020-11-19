@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BMS_FLT Pin=U1-68
+Removed Pin From Net: NetName=IMD_FLT Pin=U1-69
+Added Pin To Net: NetName=IMD_FLT Pin=U1-68
+Added Pin To Net: NetName=BMS_FLT Pin=U1-69

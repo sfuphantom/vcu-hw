@@ -1,0 +1,76 @@
+Added Component: Designator=JP1(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP3(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP5(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP7(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP8(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP9(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP10(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP11(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP12(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP13(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP14(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP15(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP16(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP17(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP18(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP19(TP2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CELL1 Pin=JP1-1
+Added Pin To Net: NetName=CELL2 Pin=JP2-1
+Added Pin To Net: NetName=CELL3 Pin=JP3-1
+Added Pin To Net: NetName=CELL4 Pin=JP4-1
+Added Pin To Net: NetName=CELL5 Pin=JP5-1
+Added Pin To Net: NetName=CELL6 Pin=JP6-1
+Added Pin To Net: NetName=CELL7 Pin=JP7-1
+Added Pin To Net: NetName=CELL8 Pin=JP8-1
+Added Pin To Net: NetName=CELL9 Pin=JP9-1
+Added Pin To Net: NetName=CELL10 Pin=JP10-1
+Added Pin To Net: NetName=CELL11 Pin=JP11-1
+Added Pin To Net: NetName=CELL12 Pin=JP12-1
+Added Pin To Net: NetName=CELL13 Pin=JP13-1
+Added Pin To Net: NetName=CELL14 Pin=JP14-1
+Added Pin To Net: NetName=CELL15 Pin=JP15-1
+Added Pin To Net: NetName=CELL16 Pin=JP16-1
+Added Pin To Net: NetName=CELL17 Pin=JP17-1
+Added Pin To Net: NetName=CELL18 Pin=JP18-1
+Added Pin To Net: NetName=CELL19 Pin=JP19-1
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP3 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP4 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP5 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP6 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP7 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP8 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP9 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP10 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP11 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP12 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP13 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP14 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP15 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP16 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP17 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP18 Testpoint2
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP19 Testpoint2

@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=CELL1 NewDesignator=JP1
+Change Component Designator: OldDesignator=CELL2 NewDesignator=JP2
+Change Component Designator: OldDesignator=CELL3 NewDesignator=JP3
+Change Component Designator: OldDesignator=CELL4 NewDesignator=JP4
+Change Component Designator: OldDesignator=CELL5 NewDesignator=JP5
+Change Component Designator: OldDesignator=CELL6 NewDesignator=JP6
+Change Component Designator: OldDesignator=CELL7 NewDesignator=JP7
+Change Component Designator: OldDesignator=CELL8 NewDesignator=JP8
+Change Component Designator: OldDesignator=CELL9 NewDesignator=JP9
+Change Component Designator: OldDesignator=CELL10 NewDesignator=JP10
+Change Component Designator: OldDesignator=CELL11 NewDesignator=JP11
+Change Component Designator: OldDesignator=CELL12 NewDesignator=JP12
+Change Component Designator: OldDesignator=CELL13 NewDesignator=JP13
+Change Component Designator: OldDesignator=CELL14 NewDesignator=JP14
+Change Component Designator: OldDesignator=CELL15 NewDesignator=JP15
+Change Component Designator: OldDesignator=CELL16 NewDesignator=JP16
+Change Component Designator: OldDesignator=CELL17 NewDesignator=JP17
+Change Component Designator: OldDesignator=CELL18 NewDesignator=JP18
+Change Component Designator: OldDesignator=CELL19 NewDesignator=JP19
+Added Component: Designator=JP20(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP21(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP22(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP23(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP24(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP25(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP26(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP27(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP28(TP2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Batt_Volt Pin=JP20-1
+Added Pin To Net: NetName=5V Pin=JP21-1
+Added Pin To Net: NetName=CURRENT_SENS Pin=JP22-1
+Added Pin To Net: NetName=BSE Pin=JP23-1
+Added Pin To Net: NetName=APPS_2 Pin=JP24-1
+Added Pin To Net: NetName=APPS_1 Pin=JP25-1
+Added Pin To Net: NetName=BMS_TEMP Pin=JP26-1
+Added Pin To Net: NetName=BMS_VOLT Pin=JP27-1
+Added Pin To Net: NetName=12V Pin=JP28-1
+Added Member To Class: ClassName=U_BMS_Voltage Member=Component JP20 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP21 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP22 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP23 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP24 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP25 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP26 Testpoint2
+Added Member To Class: ClassName=U_DAC Member=Component JP27 Testpoint2
+Added Member To Class: ClassName=U_Connectors Member=Component JP28 Testpoint2
