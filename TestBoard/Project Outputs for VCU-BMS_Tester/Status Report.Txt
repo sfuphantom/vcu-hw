@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [VCU-BMS_Tester.PrjPCB]
+   Generated File[Tester_REV_0.TXT]
+   Generated File[Tester_REV_0.LDP]
+   Generated File[Tester_REV_0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:05:50 PM On 2020-11-21
