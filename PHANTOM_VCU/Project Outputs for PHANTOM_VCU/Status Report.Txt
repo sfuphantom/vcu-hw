@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [PHANTOM_VCU.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PHANTOM_VCU.PrjPcb]
+   Generated File[VCU_LAYOUT.TXT]
+   Generated File[VCU_LAYOUT.LDP]
+   Generated File[VCU_LAYOUT.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:38:54 AM On 2019-07-04
+Finished Output Generation At 1:04:08 PM On 2020-11-22
