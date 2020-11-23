@@ -1,12 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [VCU-BMS_Tester.PrjPCB]
-   Generated File[Tester_REV_0.TXT]
-   Generated File[Tester_REV_0.LDP]
-   Generated File[Tester_REV_0.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [VCU-BMS_Tester.PrjPCB]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 3:05:50 PM On 2020-11-21
+Finished Output Generation At 4:02:21 PM On 2020-11-21
